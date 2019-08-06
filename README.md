@@ -275,9 +275,3 @@ alineación, jerarquía, entre otros.
 propia web desde 0. 
 
 - Escribe un post en Medium contando tu proceso de investigación
-
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla 
-**una vista como mínimo** (no considerar el login) utilizando las tecnologías web
-que aprendiste en el common core: HTML, CSS y JS. Puedes usar los frameworks que 
-quieras. Recuerda que la aplicación tiene que ser mobile-friendly. Despliega el
-código en GitHub Pages o Heroku.
