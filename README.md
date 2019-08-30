@@ -1,277 +1,173 @@
-# Plataforma de ventas en línea
-
-## Preámbulo
-
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
-
-## Introducción
-
-### “Nuevo portal de e-commerce”
-
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear o mejorar un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
-
-- [Aris Gesund](https://www.facebook.com/Aris-Gesund-248861299328628/)
-- [Sante Perú](https://www.facebook.com/sante.peru/)
-- [Paula Ramirez](https://www.instagram.com/paularamirez.knitwear/)
-- [Dahlia Swimwear](https://www.facebook.com/dahliaswimwear)
-- [CataLove](https://www.facebook.com/catalove1611/)
-- [Somos menstruantes](https://www.facebook.com/somosmenstruantes/)
-- [Detalazo](https://detalazo.pe/)
-- [Fishermen](https://www.facebook.com/fishermenoficial/)
-
-Luego de definir con qué emprendimiento trabajarás, debes ayudarlos
-a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos o servicios a los consumidores. Queremos que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse o mejorarse este nuevo canal de ventas.
-
-Una vez realizada la investigación debes formular una propuesta de valor. Esto
-quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a
-los usuarios y cómo va a vender sus productos. Para que guíes a la empresa que
-elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría
-ser el portal donde las personas puedan buscar, ver, elegir y comprar sus
-productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Puedes usar Google Drive para guardar toda esta
-documentación y luego linkear las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el emprendimiento
-con quien estás trabajando) y a los usuarios. Luego de entender el problema, 
-tendrás que plantear cómo es que vas a resolver dicho problema. Para ello
-puedes realizar muchas actividades, sin embargo el tiempo y los recursos que
-tienes son limitados. Tendrás que elegir bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## Implementación
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en [Loom](https://www.useloom.com/) de máximo 7 minutos explicando tu documento.
-* Estos 7 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+# Market Place - ÉKORI
+![enter image description here](https://lh3.googleusercontent.com/RSQXgRQOj8hQ3uZUZ70EeS_y0fBhZtmjgGMoF9-5AJ1FUNXqmE0bTrp_Q0h-VJEmrywIAN-BlBb4=s450 "nosotras")
 
 
-## Hacker edition
+# Visión General del Cliente
+![Logo Ekori](https://lh3.googleusercontent.com/HrbN4AgrrPR-aQgiTt1-h3GwVCgzkxFgSd--3dDHhGoVLUbOjnU6-n1e3SwQq3yQhUnboSmG7H5K=s400 "logo")
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
 
-- Escribe un post en Medium contando tu proceso de investigación
+
+**Ekori** es un emprendimiento que nace hace seis meses aproximadamente con la motivación de ampliar el mercado de Cosmética Natural de insumos con Capital 100% peruano, dedicado a formulaciones artesanales, con insumos naturales, procesos respetuosos del medio ambiente y comprometidos con un justo comercio. Actualmente EKORI produce y vende **Aceites Vegetales, Aceites Escenciales y Aceites Corporales**, todos estos con insumos puros, naturales y elaborados a mano. 
+
+> Nos encanta hacer nuestros productos con detalle aplicando las normas de Ecocert, ponemos mucha dedicación en nuestra formulación, pasión y paciencia, por lo que hacemos lotes pequeños de producción con lo cual garantizamos que el producto que compres sea de calidad.
+> **Mercedes Auccapure**
+*Fundadora de Ekori Perú*
+
+### Historia 🌿
+![enter image description here](https://lh3.googleusercontent.com/xosISV4ybg33i268ppUdwj8KW0C4bXN-fWPfa_vFai7DjyrxgUmABybOciw3GEEB0JDkWihp0DvT=s900 "historia")
+
+### Productos Ékori 🌿
+Actualmente Ékori ofrece 3 categorías de productos :
+
+**Aceites Esenciales** 🍀 
+
+Siete Aceites Esenciales
+ 
+![enter image description here](https://lh3.googleusercontent.com/G38ylLyvEV3MSDytZm6KZNhyl_sVNNJvDGLGvmVEKJKCEZXkpoHO3i27CJH4l0vwsSuHibJqZ4Go=s500 "aceiteesenciales")
+
+> **Aceite de Rosas, Aceite de Jazmin, Aceite de Eucalipto, Aceite de Lavanda, Aceite de Romero, Aceite de Árbol de Té, Aceite de Menta.**
+
+**Aceites Corporales** 🍀
+
+Tres Aceites de masajes corporales 
+
+![enter image description here](https://lh3.googleusercontent.com/b1xgJEIXfEQCpsQq0wdln_OV12Fgo0nkSR5kCCRIIvsds2XmEAsW_QXXX710InnlDifGfu-MVCE_=s500 "aceitescorporales")
+
+>  **Rosa y Árbol de Té**, **Menta y Árbol de Té**, **Lavanda y Árbol de Té**
+
+**Aceites Vegetales** 🍀
+
+Dos Aceites Vegetales
+![enter image description here](https://lh3.googleusercontent.com/4XcN_VazBEGjJnBwSsxMTqvPx50NufaHJ-hjkHXgydtTTunu9mMxl8nP5JMJ8eO2TcuAeO3Eoue2=s250 "aceiteVegetaljojoba")![enter image description here](https://lh3.googleusercontent.com/CWungIvmVooV87U2YDohIRVfA3LXGw3sQhYTvf6EPRl9aYbikEKKUriPmeJ-hoddlsoKwKC-cR4L=s250 "aceitevegetalargan")
+
+> **Aceite de Argán**, **Aceite de Jojoba**  
+
+**Más vendidos:** Aceite esencial de árbol de té, Aceite de masajes de Rosas con Árbol de Té, Aceite esencial de Jazmín, Aceite esencial de Menta con Árbol de Té.
+**Presentaciones :** 10mL, 30mL y 50mL, según necesidad.
+**Precio:** Entre S/40 a S/45 soles. Envío tiene costó adicional.
+
+### Situación actual de la empresa 
+ Actualmente ÉKORI ofrece sus productos únicamente por Facebook. La frase oficial de ÉKORI es Divino, Natural y Sostenible.
+![enter image description here](https://lh3.googleusercontent.com/fk_gWihLNaYbNy9yCxt4dmhh19QMnhAsKK2jZomO-Dgv3jRez7x8GjeiN2x8uq2f-bwSlewyW7lT=s900 "facebook")
+
+El FanPage ÉKORI, maneja una tienda de productos donde muestra todos sus productos.
+
+![enter image description here](https://lh3.googleusercontent.com/k2TxIZa7YgK9zStFLhF98RoUrbPeEpptceWn3S5eI6wjYmEB8n1zmjTkp80Pu3M3naGtK62JAxJR=s1000 "tiendafacebook")
+
+Los anuncios que se realizan son como los que se muestran a continuación, usa los siguientes hashtag : #EkoriPerú, #Divino,NaturalYSostenible, #CosméticaNatural, #PeruanaModerna, #EkoriFriends, #EkoriLover, #MasajesEkori.
+
+![enter image description here](https://lh3.googleusercontent.com/CTFC8ZkAYASMkVbfZ9Z0m8HAoqBJsYR7IWyp3NMxgsDeXfY5vgVTFhQ9panp-mYo0G1-13bXXyor=s900 "anuncio")
+
+
+# Problemática
+
+Actualmente, nuestra cliente Mercedes Auccapure, ofrece sus productos por medio de Facebook, y  dos personas distribuyen físicamente los productos en la Zona Norte y Sur. Sin embargo, Ékori aún no logra posicionarse como marca en Redes y los usuarios necesitan de mayor información previa a efectuarse la compra como los beneficios que le puede brindar el producto, el tipo de pago, etc. 
+
+# Objetivos del proyecto
+
+Los objetivos de este proyecto se enmarcan en la búsqueda de la solución más idónea para nuestra cliente Mercedes y sus usuarios, por ello realizaremos el proceso de Diseño de Experiencia centrado en el Usuario utilizando la metodología Design Thinking para encontrar propuestas y soluciones a la problemática antes planteada.
+### Detalles del proyecto
+
+**Duración:**  3 semanas.
+
+**Plataforma:**  Responsive (Móvil).
+
+**Roles:**  Yomira Montalvo,  Shirley Sosa. Equipo que participó colaborativamente para desarrollar todos los pasos a seguir en el proceso de Desarrollo del Proyecto.
+
+**Herramientas utilizadas:** Trello, Miro, Zoom, Figma, Canva, Google Drive.
+
+**Herramientas UX utilizadas:**  Benchmark, User persona,customer journey map, Flujo de Contenido, User Research,  HMW, Problem Statements, Feature List, prototyping y testeo de usabilidad.
+
+# Diseño centrado en el Usuario
+
+
+## Descubrimiento e Investigación
+
+Preguntas a Resolver: 
+
+ 1. ¿Quiénes son nuestros usuarios?
+ 2. ¿Qué necesitan nuestros usuarios?
+ 3. ¿Qué quieren nuestros usuarios?
+
+**Herramientas que se usaron:** Entrevistas a cliente, entrevistas a usuarios, Benchmark.
+
+### Entrevista con Cliente 
+
+**Nuestra cliente :**  Mercedes Auccapure, *Fundadora de Ékori Perú* 
+
+Ingeniera Industrial, emprendedora y fundadora de 2 emprendimientos de productos naturales antes de Ekori Perú. Hace 6 meses nació Ekori Perú, un emprendimiento de cosmética natural y aromaterapia donde Mercedes se encarga de todo ( producción, marketing, contabilidad, comunicación, etc.)
+
+  ![enter image description here](https://lh3.googleusercontent.com/gUXrbEr2GFDru7gLT4xD4F_FPAYhwDO0FzLRV3bN4vW-lbGKwpTFbveZNpjO5se_vW0qwzk5R8TQ=s402 "meche")![enter image description here](https://lh3.googleusercontent.com/GPHX-RDDNubZJ47TvYczO_eJK_iX4pYorPGs6qptMf5JquiYd7NrF08iMAvo77O9DM707TZgBq8o=s300 "mercedes")
+  
+**Metas y objetivos establecidos a partir de la entrevista:** 
+
+ -   Garantizar una experiencia agradable al cliente durante todo el proceso de compra.
+ - Generar mayor reconocimiento de la Marca en las personas.
+ -   Promover productos de insumos y extractos nativos.
+ -   Generar re-compra entre usuarios.
+
+**Hallazgos:** 
+   
+
+ - Se prefiere un pago contra-entrega porque el cliente prefiere “hacer vivir la experiencia del aroma y textura en la piel del usuario”.
+-  Ofrece muestras gratuitas para incentivar el conocimiento y recompra.
+-  La coordinación de envío se realiza por Whatsapp.
+- El usuario suele preguntar por el precio, los beneficios y por producto en específico.
+- Limitante de ventas: precio por delivery.
+
+### TARGET USER
+
+A partir de la entrevista con la cliente, pudimos obtener un Target User, que tiene las siguientes características: 
+
+ - Género: Femenino
+ - Rango de Edad: 20 a 50 años 
+ - Estilo de vida (Fuente: Arellano
+   Marketing) : Modernas y Conservadoras
+  - Motivación: Cuidar su piel, ya que percibió cambios hormonales y siente tensión por la edad.
+  
+![enter image description here](https://lh3.googleusercontent.com/2Py0fTxJ6t1volNCuXTEpX0QR78Hf4VrcioJtfMnSSOPzB6sifO1iLk4Geh9K8o8GZ-q3tCfYMq-=s900 "targetUser")
+
+### BENCHMARKING
+
+Se realizó el análisis Benchmark de 6 empresas, incluída ÉKORI. Las empresas no necesariamente son del rubro, sin embargo cuentan con algunas características que pueden ser representativas para la elaboración de prototipos. Aquí puedes ver una tabla comparativa con los aspectos más relevantes.
+
+![enter image description here](https://lh3.googleusercontent.com/8uaqSHdi5C1dKWfDBXyFZtnV1JCj29b8bOmJh4TFgQf5gmDujwEi7mqGQcPGexEzWJ-Kppn9vUbI=s800 "benchmark")
+
+**Resultados importantes del Benchmark:**
+
+ - Comunica al usuario sobre términos y condiciones de compra.
+ - Ofrece respaldo y seguridad al mostrar las políticas de la empresa.
+ - Recomendaciones que validan y dan seguridad al usuario.
+ - Branding coherente, mismo estilo, estética de alto impacto.
+
+### Entrevista con los USUARIOS
+
+Se realizó entrevista a 5 usuarios, que pertenecen al TARGET USER ya establecido, para lo cuál nos reunimos con ellos presencialmente y elaboramos las preguntas planteadas con anterioridad. Nuestros usuarios fueron 4 potenciales Usuarios, interesados en los productos que ofrecía ÉKORI y 1 Usuaria que había realizado compras a la empresa. 
+En el siguiente Link, se muestran las grabaciones realizadas a los usuarios ---> 
+
+## Síntesis
+ 
+ ### AFFINITY MAPING
+
+Para iniciar con el proceso de síntesis de la información recolectada de la primera etapa de Descubrimiento e Investigación, se organizó la información en un Affinity Map, dividiendo la información en diferentes secciones como :
+
+![enter image description here](https://lh3.googleusercontent.com/ngQ2N1U871d_xStQqBYkGE8-pj41sxALiOipr_MnR-DidN8GnyGaef6KUbirwGsVVMLLxd0ekKJe=s900 "usuarios")
+
+![enter image description here](https://lh3.googleusercontent.com/04Hu77edCyILfWKeY1ClMbsHsaj3eOA5evPHa2n5rGdnX2Cyn_fj-p_K-pVG1kVMzl1a8WwOiecB=s900 "AFFINITYmaping")
+
+
+ Enlace en Miro : 
+ [https://miro.com/app/board/o9J_kwhadQ0=/](https://miro.com/app/board/o9J_kwhadQ0=/)
+
+
+ ### USER PERSONA
+
+Al interactuar y entrevistar a los USUARIOS y el Cliente, realizando un análisis previo y organizando la información, se definió a Alejandra Castillo como nuestra USER PERSONA.
+
+![enter image description here](https://lh3.googleusercontent.com/BG6g6IAm78efcjg-yjvnlhZ5vbqmvfw8qYNmt_hg5P0VC5ko8_LSzaBUuYvroAyKK6LRJgo5LtbK=s700 "USER PERSONA")
+
+ ### CUSTOMER JOURNEY MAP
+
+Al conocer al usuario,  se pudo construir el Customer Journey Map, donde se plasmó en un mapa cada una de las etapas ,momentos, interacciones, canales y elementos que atraviesa nuestro usuario durante todo el proceso de conocimiento de Ékori y proceso de compra. 
+
+![enter image description here](https://lh3.googleusercontent.com/GsHxLHUojbRz_Yh0eL1B__8d9tMs2OEWfusMgT6L8eWJTz5SenCxS_p5B8YJy-AsoNtIIhpqyfQ_=s900 "costumerJM")
