@@ -324,6 +324,6 @@ Enlaces en testing:
 
 - [Archivos en Drive](https://drive.google.com/drive/folders/1TRIolmb4GEqly31C-LAQwhPc0eCzWqq-?usp=sharing) 
 - [Presentación final](https://docs.google.com/presentation/d/1cqYPmia1snml4BB5oEvgMvy2gm8wTb_WwVJXDIpcJ8Q/edit?usp=sharing)
-- [\[Enlace en figma\]](%28https://www.figma.com/file/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=0:1%29)
+- [Enlace en figma](%28https://www.figma.com/file/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=0:1%29)
 - [Proyecto en Zeplin](https://zpl.io/VkWYNjK)
- - [Enlace de presentación en Loom]()
+
