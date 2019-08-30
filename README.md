@@ -125,7 +125,8 @@ A partir de la entrevista con la cliente, pudimos obtener un Target User, que ti
    Marketing) : Modernas y Conservadoras
   - Motivación: Cuidar su piel, ya que percibió cambios hormonales y siente tensión por la edad.
   
-![enter image description here](https://lh3.googleusercontent.com/2Py0fTxJ6t1volNCuXTEpX0QR78Hf4VrcioJtfMnSSOPzB6sifO1iLk4Geh9K8o8GZ-q3tCfYMq-=s900 "targetUser")
+![enter image description here](https://lh3.googleusercontent.com/4mmi0f1VAfiLTgF9m-HozUGzgLnI7O5syrHimsrqtIk3aY0VS0sfEux5cNfkabe-L1QfFMX2YQ1I=s900 "TargetUser")
+
 
 ### BENCHMARKING
 
@@ -171,3 +172,103 @@ Al interactuar y entrevistar a los USUARIOS y el Cliente, realizando un análisi
 Al conocer al usuario,  se pudo construir el Customer Journey Map, donde se plasmó en un mapa cada una de las etapas ,momentos, interacciones, canales y elementos que atraviesa nuestro usuario durante todo el proceso de conocimiento de Ékori y proceso de compra. 
 
 ![enter image description here](https://lh3.googleusercontent.com/GsHxLHUojbRz_Yh0eL1B__8d9tMs2OEWfusMgT6L8eWJTz5SenCxS_p5B8YJy-AsoNtIIhpqyfQ_=s900 "costumerJM")
+
+ ### Problem Statements
+
+Se definieron los siguientes Problem Statements que representan las necesidades de nuestros usuarios. 
+
+![enter image description here](https://lh3.googleusercontent.com/-YMAPyOwOzLsmaXLbQ4KeYD7M7f-u44ObeGx7Y1gwh7I5w3ugKZPLtab82zLdkMABI7T6La43AHo=s900 "Problem Statements")
+
+ ### How Might We -   Que tenga un carrito de compras
+    
+
+ ### Feature List
+
+Gracias a los HMW, se pudo recolectar una lista de características para determinar más adelante el Producto Mínimo Viable (MVP), a continuación se muestra el Feature List.
+
+-   Que tenga un carrito de compras
+    
+-   Que se pueda conversar directamente con la empresa
+    
+-   Que se pueda buscar por producto( también puede ser por beneficio, ingrediente, tipo de producto)
+    
+-   Que se pueda ver la procedencia, precio, beneficios, ingredientes, modo de uso cada productos.
+    
+-   Que se pueda comprar con o sin cuenta.
+    
+-   Que se pueda usar en celular.
+    
+-   Que tenga una pasarela de pagos.
+    
+-   Que se muestre la cultura de la empresa.
+    
+-   Que se muestre información del proceso de obtención de la materia prima y cómo se trabaja.
+
+ ### MVP (Producto Mínimo Viable)
+
+Nuestro producto, mínimamente debe realizar las siguientes funciones. Estas funciones las establecimos a partir de los Problem Statements y Feature List.
+
+![enter image description here](https://lh3.googleusercontent.com/mO1EwhAeqSie1b1m2qNJzL_OPCzItUuv-AqtpUMwBPkeALyQM2gshyiQozb9QWKar7Ac6LubkOE4=s900 "MVP")
+
+## Ideación
+
+Para el proceso de Ideación utilizamos Crazy 8's, ya que esto contribuyó a estimular la generación de ideas. Este proceso se detalla a continuación.
+
+![enter image description here](https://lh3.googleusercontent.com/TkM4zMxihduFroy1qn3XzlZ-rolPypvkJp-i_BtzMb8Ixrw5gOW843CsL8XsocH0_PsaHngE_6H5=s900 "crazy 8's")
+
+ ### Prototipado
+ 
+  ### Prototipado de Baja Fidelidad
+ 
+ El prototipado creado a partir del proceso de ideación es el siguiente.
+
+![enter image description here](https://lh3.googleusercontent.com/TqsvVLwy49q74l_u6RL6t8WE80LGd7SaxBe8CWFBw9xS8sEAQ4vHT9QmJyPbe1WsW493pNQEuZMi "prototipadobaja1")
+![enter image description here](https://lh3.googleusercontent.com/aNuyUIhiuePUaHD6CUDYnnq7SJDF3FeYu0mungeZBK7rMIxVDEztohUt5O8qFiFF_V57SxHh9iDe "prototipadobaja2")
+
+  ### Testing
+
+![enter image description here](https://lh3.googleusercontent.com/1PhS4fTxTOuZo2OMV5zsi-LrL2EutZDtgSpMKf4-iGFYMM_mMhJmE52kqtGnpHlK_vCnp8zXh_rW "testing")
+
+-   Los íconos de mi cuenta, buscador y carrito de compras son muy pequeños.
+    
+-   No comprenden que pueden pagar con correo.
+    
+-   No comprendieron cómo entrar al menú.
+    
+-   No asociaban los íconos de chatbox de Messenger o Facebook.
+
+  ### Wireframe
+  
+![enter image description here](https://lh3.googleusercontent.com/h1G6As27opM2LVivtheqkeoYkZ1TJ81_fTZf1KCOI564BPp7FGMT3Bdwq5PBr3czIWriYpow7qaa "wireframe1")
+![enter image description here](https://lh3.googleusercontent.com/7E9H1egrCShzDDL9khebgp1NfbUnGtE4nQXr1e3FbLWVyCR1qbYl7sA6VVkcMXi3OnkLt4YqqWst "wireframe2")
+![enter image description here](https://lh3.googleusercontent.com/5RgPmBcstbuqiH5v63byyruKCKeADXkNVxxxRR8HGKv1rRcGGqWT2FMLqc97GkNw7ISjka5oBVN0 "wireframe3")
+
+---> Link a prototipo en Figma: 
+
+   ### Testing
+   
+![enter image description here](https://lh3.googleusercontent.com/O_fkPDRkS26dZTf8xlloonAkISIpPvUqw0qoqV214eY2dRJeUwNlqPXV09W1dAG4hWx1UvZo7iyW "testing")
+
+-   No identifican cómo comunicarse con la empresa.
+    
+-   No logran reconocer los íconos de chatbox de Messenger.
+    
+-   No saben cómo buscar un producto.
+    
+-   No logran entran a las redes sociales.
+    
+-   Prefieren “pagar contra-entrega”.
+    
+-   Prefieren pagar con una pasarela de pagos que ingresar datos directos a la web.
+    
+-   No se entiende porqué hay dos botones “comprar” y “añadir al carrito”.
+    
+-   En general tardan en hacer las tareas como ingresar al menú, comprar y entrar a su cuenta.
+
+  ### Prototipado de Alta Fidelidad
+ 
+ ![enter image description here](https://lh3.googleusercontent.com/jmxftRUYRCYqmoTPp3O8h8ps0YSDy91dEPf-8MWp-A-GRk2qzdri4mY2FybjThAmLc0p8MA0KEqu "prototipoalta")
+
+---> Link a prototipo en Figma: 
+
+   ### Testing
