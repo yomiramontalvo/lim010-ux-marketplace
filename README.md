@@ -1,17 +1,69 @@
 # Market Place - ÉKORI
+![Logo Ekori](https://lh3.googleusercontent.com/HrbN4AgrrPR-aQgiTt1-h3GwVCgzkxFgSd--3dDHhGoVLUbOjnU6-n1e3SwQq3yQhUnboSmG7H5K=s400 "logo")
 ![enter image description here](https://lh3.googleusercontent.com/RSQXgRQOj8hQ3uZUZ70EeS_y0fBhZtmjgGMoF9-5AJ1FUNXqmE0bTrp_Q0h-VJEmrywIAN-BlBb4=s450 "nosotras")
 
+## ***Contenido***
+-  Introducción    
+-  Objetivos del proyecto    
+-  Implementación  
+-  Problemática
+ - Proceso UX Design
+   1. Descubrimiento e investigación    
+   2. Síntesis y definición   
+   3. Ideación    
+   4. Prototipado 
+   5. User testing
+-  Presentación en Loom
+-  Conclusiones
+-  Enlaces
 
-# Visión General del Cliente
-![Logo Ekori](https://lh3.googleusercontent.com/HrbN4AgrrPR-aQgiTt1-h3GwVCgzkxFgSd--3dDHhGoVLUbOjnU6-n1e3SwQq3yQhUnboSmG7H5K=s400 "logo")
-
-
+# Introducción
 
 **Ekori** es un emprendimiento que nace hace seis meses aproximadamente con la motivación de ampliar el mercado de Cosmética Natural de insumos con Capital 100% peruano, dedicado a formulaciones artesanales, con insumos naturales, procesos respetuosos del medio ambiente y comprometidos con un justo comercio. Actualmente EKORI produce y vende **Aceites Vegetales, Aceites Escenciales y Aceites Corporales**, todos estos con insumos puros, naturales y elaborados a mano. 
 
 > Nos encanta hacer nuestros productos con detalle aplicando las normas de Ecocert, ponemos mucha dedicación en nuestra formulación, pasión y paciencia, por lo que hacemos lotes pequeños de producción con lo cual garantizamos que el producto que compres sea de calidad.
 > **Mercedes Auccapure**
 *Fundadora de Ekori Perú*
+
+# Objetivos del Proyecto
+Los objetivos de este proyecto se enmarcan en la búsqueda de la solución más idónea para nuestra cliente Mercedes y sus usuarios, por ello realizaremos el proceso de Diseño de Experiencia centrado en el Usuario utilizando la metodología Design Thinking para encontrar propuestas y soluciones a la problemática antes planteada.
+### Detalles del proyecto
+
+**Duración:**  3 semanas.
+
+**Plataforma:**  Responsive (Móvil).
+
+**Roles:**  Yomira Montalvo,  Shirley Sosa. Equipo que participó colaborativamente para desarrollar todos los pasos a seguir en el proceso de Desarrollo del Proyecto.
+
+**Herramientas utilizadas:** Trello, Miro, Zoom, Figma, Canva, Google Drive.
+
+**Herramientas UX utilizadas:**  Benchmark, User persona,customer journey map, Flujo de Contenido, User Research,  HMW, Problem Statements, Feature List, prototyping y testeo de usabilidad.
+
+# Implementación
+Para realizar este proyecto hemos seleccionado las siguientes actividades para poder crear nuestra propuesta de valor:
+
+![enter image description here](https://lh3.googleusercontent.com/nYTXtq0p73Ea3-Z_RcFSemsC9T-qxOjb8dynO1cmqwVuU-eRb_YZFAr8PliRVU0EsfmdjGcjoMd1=s900)
+
+# Problemática
+
+Actualmente, nuestra cliente Mercedes Auccapure, ofrece sus productos por medio de Facebook, y  dos personas distribuyen físicamente los productos en la Zona Norte y Sur. Sin embargo, Ékori aún no logra posicionarse como marca en Redes y los usuarios necesitan de mayor información previa a efectuarse la compra como los beneficios que le puede brindar el producto, el tipo de pago, etc. 
+
+# Proceso UX Design
+
+
+
+##  1. Descubrimiento e Investigación
+
+Preguntas a Resolver: 
+
+ 1. ¿Quiénes son nuestros usuarios?
+ 2. ¿Qué necesitan nuestros usuarios?
+ 3. ¿Qué quieren nuestros usuarios?
+
+**Herramientas que se usaron:** Entrevistas a cliente, entrevistas a usuarios, Benchmark.
+
+
+##  Visión General del Cliente
 
 ### Historia 🌿
 ![enter image description here](https://lh3.googleusercontent.com/xosISV4ybg33i268ppUdwj8KW0C4bXN-fWPfa_vFai7DjyrxgUmABybOciw3GEEB0JDkWihp0DvT=s900 "historia")
@@ -47,7 +99,9 @@ Dos Aceites Vegetales
 **Precio:** Entre S/40 a S/45 soles. Envío tiene costó adicional.
 
 ### Situación actual de la empresa 
+ 
  Actualmente ÉKORI ofrece sus productos únicamente por Facebook. La frase oficial de ÉKORI es Divino, Natural y Sostenible.
+ 
 ![enter image description here](https://lh3.googleusercontent.com/fk_gWihLNaYbNy9yCxt4dmhh19QMnhAsKK2jZomO-Dgv3jRez7x8GjeiN2x8uq2f-bwSlewyW7lT=s900 "facebook")
 
 El FanPage ÉKORI, maneja una tienda de productos donde muestra todos sus productos.
@@ -58,40 +112,7 @@ Los anuncios que se realizan son como los que se muestran a continuación, usa l
 
 ![enter image description here](https://lh3.googleusercontent.com/CTFC8ZkAYASMkVbfZ9Z0m8HAoqBJsYR7IWyp3NMxgsDeXfY5vgVTFhQ9panp-mYo0G1-13bXXyor=s900 "anuncio")
 
-
-# Problemática
-
-Actualmente, nuestra cliente Mercedes Auccapure, ofrece sus productos por medio de Facebook, y  dos personas distribuyen físicamente los productos en la Zona Norte y Sur. Sin embargo, Ékori aún no logra posicionarse como marca en Redes y los usuarios necesitan de mayor información previa a efectuarse la compra como los beneficios que le puede brindar el producto, el tipo de pago, etc. 
-
-# Objetivos del proyecto
-
-Los objetivos de este proyecto se enmarcan en la búsqueda de la solución más idónea para nuestra cliente Mercedes y sus usuarios, por ello realizaremos el proceso de Diseño de Experiencia centrado en el Usuario utilizando la metodología Design Thinking para encontrar propuestas y soluciones a la problemática antes planteada.
-### Detalles del proyecto
-
-**Duración:**  3 semanas.
-
-**Plataforma:**  Responsive (Móvil).
-
-**Roles:**  Yomira Montalvo,  Shirley Sosa. Equipo que participó colaborativamente para desarrollar todos los pasos a seguir en el proceso de Desarrollo del Proyecto.
-
-**Herramientas utilizadas:** Trello, Miro, Zoom, Figma, Canva, Google Drive.
-
-**Herramientas UX utilizadas:**  Benchmark, User persona,customer journey map, Flujo de Contenido, User Research,  HMW, Problem Statements, Feature List, prototyping y testeo de usabilidad.
-
-# Diseño centrado en el Usuario
-
-
-## Descubrimiento e Investigación
-
-Preguntas a Resolver: 
-
- 1. ¿Quiénes son nuestros usuarios?
- 2. ¿Qué necesitan nuestros usuarios?
- 3. ¿Qué quieren nuestros usuarios?
-
-**Herramientas que se usaron:** Entrevistas a cliente, entrevistas a usuarios, Benchmark.
-
-### Entrevista con Cliente 
+## Entrevista con Cliente 
 
 **Nuestra cliente :**  Mercedes Auccapure, *Fundadora de Ékori Perú* 
 
@@ -107,15 +128,14 @@ Ingeniera Industrial, emprendedora y fundadora de 2 emprendimientos de productos
  -   Generar re-compra entre usuarios.
 
 **Hallazgos:** 
-   
-
+  
  - Se prefiere un pago contra-entrega porque el cliente prefiere “hacer vivir la experiencia del aroma y textura en la piel del usuario”.
 -  Ofrece muestras gratuitas para incentivar el conocimiento y recompra.
 -  La coordinación de envío se realiza por Whatsapp.
 - El usuario suele preguntar por el precio, los beneficios y por producto en específico.
 - Limitante de ventas: precio por delivery.
 
-### TARGET USER
+## TARGET USER
 
 A partir de la entrevista con la cliente, pudimos obtener un Target User, que tiene las siguientes características: 
 
@@ -128,11 +148,13 @@ A partir de la entrevista con la cliente, pudimos obtener un Target User, que ti
 ![enter image description here](https://lh3.googleusercontent.com/4mmi0f1VAfiLTgF9m-HozUGzgLnI7O5syrHimsrqtIk3aY0VS0sfEux5cNfkabe-L1QfFMX2YQ1I=s900 "TargetUser")
 
 
-### BENCHMARKING
+## BENCHMARKING
 
 Se realizó el análisis Benchmark de 6 empresas, incluída ÉKORI. Las empresas no necesariamente son del rubro, sin embargo cuentan con algunas características que pueden ser representativas para la elaboración de prototipos. Aquí puedes ver una tabla comparativa con los aspectos más relevantes.
 
-![enter image description here](https://lh3.googleusercontent.com/8uaqSHdi5C1dKWfDBXyFZtnV1JCj29b8bOmJh4TFgQf5gmDujwEi7mqGQcPGexEzWJ-Kppn9vUbI=s800 "benchmark")
+![enter image description here](https://lh3.googleusercontent.com/E8hG_zQ0cMQYaLTt6YGnxqjdayIRKaBhJPoV-qwgF75EQLKCIgxVEIDxth3SPj31cIFcUCYLn206=s800 )
+
+Link a Benchmark ---> https://docs.google.com/spreadsheets/d/14DeUUHl4wAcMewjTlqxyXtVfYXytd6VO4pSzzhDSTb4/edit?usp=sharing
 
 **Resultados importantes del Benchmark:**
 
@@ -141,12 +163,11 @@ Se realizó el análisis Benchmark de 6 empresas, incluída ÉKORI. Las empresas
  - Recomendaciones que validan y dan seguridad al usuario.
  - Branding coherente, mismo estilo, estética de alto impacto.
 
-### Entrevista con los USUARIOS
+## Entrevista con los USUARIOS
 
 Se realizó entrevista a 5 usuarios, que pertenecen al TARGET USER ya establecido, para lo cuál nos reunimos con ellos presencialmente y elaboramos las preguntas planteadas con anterioridad. Nuestros usuarios fueron 4 potenciales Usuarios, interesados en los productos que ofrecía ÉKORI y 1 Usuaria que había realizado compras a la empresa. 
-En el siguiente Link, se muestran las grabaciones realizadas a los usuarios ---> 
 
-## Síntesis
+## 2.  Síntesis y definición
  
  ### AFFINITY MAPING
 
@@ -158,8 +179,7 @@ Para iniciar con el proceso de síntesis de la información recolectada de la pr
 
 
  Enlace en Miro : 
- [https://miro.com/app/board/o9J_kwhadQ0=/](https://miro.com/app/board/o9J_kwhadQ0=/)
-
+https://miro.com/welcomeonboard/MOcSQTZbr6FqUosRVDJ6QiR46x4IWQRPhrmBYqyzHfeAtiUjXU09lkR4oe82e6kp
 
  ### USER PERSONA
 
@@ -167,22 +187,25 @@ Al interactuar y entrevistar a los USUARIOS y el Cliente, realizando un análisi
 
 ![enter image description here](https://lh3.googleusercontent.com/BG6g6IAm78efcjg-yjvnlhZ5vbqmvfw8qYNmt_hg5P0VC5ko8_LSzaBUuYvroAyKK6LRJgo5LtbK=s700 "USER PERSONA")
 
- ### CUSTOMER JOURNEY MAP
+ ## CUSTOMER JOURNEY MAP
 
 Al conocer al usuario,  se pudo construir el Customer Journey Map, donde se plasmó en un mapa cada una de las etapas ,momentos, interacciones, canales y elementos que atraviesa nuestro usuario durante todo el proceso de conocimiento de Ékori y proceso de compra. 
 
 ![enter image description here](https://lh3.googleusercontent.com/GsHxLHUojbRz_Yh0eL1B__8d9tMs2OEWfusMgT6L8eWJTz5SenCxS_p5B8YJy-AsoNtIIhpqyfQ_=s900 "costumerJM")
 
- ### Problem Statements
+ ## Problem Statements
 
 Se definieron los siguientes Problem Statements que representan las necesidades de nuestros usuarios. 
 
-![enter image description here](https://lh3.googleusercontent.com/-YMAPyOwOzLsmaXLbQ4KeYD7M7f-u44ObeGx7Y1gwh7I5w3ugKZPLtab82zLdkMABI7T6La43AHo=s900 "Problem Statements")
+![enter image description here](https://lh3.googleusercontent.com/ZasxrGyO6AmYGp73sG_Syc_LiRgHD4CdYep5jxntP_dAI2G2lf2HnZJyGp-qYQ_QCAG1s8MulNOq=s900)
 
- ### How Might We -   Que tenga un carrito de compras
+ ## How Might We -   Que tenga un carrito de compras
     
+![enter image description here](https://lh3.googleusercontent.com/IeeS3RO9YKGFOszrPPvvaWaZIoOcezXb1sAAV0909pI8-awR4xDx-bTAzf08u3uDwANtG8w2JkiZ)
+![enter image description here](https://lh3.googleusercontent.com/rxRwWbTplsvRhJlIowgT6-OnOpf2UIRAvHvr7nWBG03pTlneixnSpSaGq6K3fcpRy07dGjvTs3QM)
+![enter image description here](https://lh3.googleusercontent.com/9X4gKy1vbjx0F_n14L9B1rOCqvPI2aK5GrZTTNUbPcEBr5HGnUvJ8rZ-CoEl5MUnZEDl7C-oOK3K)
 
- ### Feature List
+ ## Feature List
 
 Gracias a los HMW, se pudo recolectar una lista de características para determinar más adelante el Producto Mínimo Viable (MVP), a continuación se muestra el Feature List.
 
@@ -208,13 +231,15 @@ Gracias a los HMW, se pudo recolectar una lista de características para determi
 
 Nuestro producto, mínimamente debe realizar las siguientes funciones. Estas funciones las establecimos a partir de los Problem Statements y Feature List.
 
-![enter image description here](https://lh3.googleusercontent.com/mO1EwhAeqSie1b1m2qNJzL_OPCzItUuv-AqtpUMwBPkeALyQM2gshyiQozb9QWKar7Ac6LubkOE4=s900 "MVP")
+![enter image description here](https://lh3.googleusercontent.com/F3aIgAVgeVM0FSl9ikEbiWQj7WztHIuKRY2w4hcgmR1pvXTkXZJ050ZLgCQFxsoZDJLyHNhjHiw9=s600)
 
-## Ideación
+## 3. Ideación
 
 Para el proceso de Ideación utilizamos Crazy 8's, ya que esto contribuyó a estimular la generación de ideas. Este proceso se detalla a continuación.
 
 ![enter image description here](https://lh3.googleusercontent.com/TkM4zMxihduFroy1qn3XzlZ-rolPypvkJp-i_BtzMb8Ixrw5gOW843CsL8XsocH0_PsaHngE_6H5=s900 "crazy 8's")
+
+Enlace a fotos ---> https://drive.google.com/drive/folders/1Yr9BaZaK22I4oFHAP6hqXVrmiiGIx4RK?usp=sharing
 
  ### Prototipado
  
@@ -237,6 +262,15 @@ Para el proceso de Ideación utilizamos Crazy 8's, ya que esto contribuyó a est
     
 -   No asociaban los íconos de chatbox de Messenger o Facebook.
 
+Enlaces en drive:
+fotos --->(https://drive.google.com/drive/folders/13vNxNz3p27zTiTuLaPB2HyFlMvrX6bu_)
+Enlaces a testing: 
+[Testing 1](https://photos.app.goo.gl/bRTAqHkuRydQxvcz8)
+[Testing 2](https://photos.app.goo.gl/AoPrC92VVVhYin8g7)
+[Testing 3](https://photos.app.goo.gl/CQA29rMG3Qjh1U6z5)
+Testing 4
+Testing 5
+
   ### Wireframe
   
 ![enter image description here](https://lh3.googleusercontent.com/h1G6As27opM2LVivtheqkeoYkZ1TJ81_fTZf1KCOI564BPp7FGMT3Bdwq5PBr3czIWriYpow7qaa "wireframe1")
@@ -245,7 +279,7 @@ Para el proceso de Ideación utilizamos Crazy 8's, ya que esto contribuyó a est
 
 ---> Link a prototipo en Figma: 
 
-   ### Testing
+[Prototipo de Media Fidelidad (edición)](https://www.figma.com/file/GuDM9HCQuLxepR6TK4w5PX/Untitled?node-id=0:1)
    
 ![enter image description here](https://lh3.googleusercontent.com/O_fkPDRkS26dZTf8xlloonAkISIpPvUqw0qoqV214eY2dRJeUwNlqPXV09W1dAG4hWx1UvZo7iyW "testing")
 
@@ -265,10 +299,27 @@ Para el proceso de Ideación utilizamos Crazy 8's, ya que esto contribuyó a est
     
 -   En general tardan en hacer las tareas como ingresar al menú, comprar y entrar a su cuenta.
 
+Enlaces en testing:
+[Testing 1](https://photos.app.goo.gl/1tcd2nQySVt1T3AJA)
+[Testing 2](https://photos.app.goo.gl/gpo6AqqCNbdz6Hzz6)
+[Testing 3](https://photos.app.goo.gl/qnZkDXRa8AtJhsrD6)
+[Testing 4](https://photos.app.goo.gl/WrdzzewvE4cELTyt6)
+[Testing 5](https://photos.app.goo.gl/3x3D5jVqGXVBU3V39)
+
+   ### Testing
+
   ### Prototipado de Alta Fidelidad
  
  ![enter image description here](https://lh3.googleusercontent.com/jmxftRUYRCYqmoTPp3O8h8ps0YSDy91dEPf-8MWp-A-GRk2qzdri4mY2FybjThAmLc0p8MA0KEqu "prototipoalta")
 
 ---> Link a prototipo en Figma: 
+[Prototipo de Alta fidelidad (edición)](https://www.figma.com/file/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=0:1)
+[Prototipo de Alta fidelidad (navegable)](https://www.figma.com/proto/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=89:281&viewport=561,565,0.16950248181819916&scaling=scale-down)
+  
+   ### Enlaces
 
-   ### Testing
+[Archivos en Drive](https://drive.google.com/drive/folders/1TRIolmb4GEqly31C-LAQwhPc0eCzWqq-?usp=sharing) 
+[Presentación final](https://docs.google.com/presentation/d/1cqYPmia1snml4BB5oEvgMvy2gm8wTb_WwVJXDIpcJ8Q/edit?usp=sharing)
+[\[Enlace en figma\]](%28https://www.figma.com/file/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=0:1%29)
+[Proyecto en Zeplin](https://zpl.io/VkWYNjK)
+[Enlace de presentación en Loom]()
