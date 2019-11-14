@@ -325,6 +325,6 @@ Enlaces en testing:
 - [Archivos en Drive](https://drive.google.com/drive/folders/1TRIolmb4GEqly31C-LAQwhPc0eCzWqq-?usp=sharing) 
 - [Presentación final](https://docs.google.com/presentation/d/1cqYPmia1snml4BB5oEvgMvy2gm8wTb_WwVJXDIpcJ8Q/edit?usp=sharing)
 -[Prototipo final (edición)](https://www.figma.com/file/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=0:1)
--[Prototipo final (navegable)](https://www.figma.com/proto/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=89:281&viewport=561,565,0.16950248181819916&scaling=scale-down)
+-[Prototipo final (navegable)](https://www.figma.com/proto/F1Bhd8eXgXXxW53cbWFZZA/Ekori---P.-e-commerce?node-id=89%3A281&scaling=scale-down)
 - [Proyecto en Zeplin](https://zpl.io/VkWYNjK)
 
