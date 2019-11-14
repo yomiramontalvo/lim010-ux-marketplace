@@ -197,13 +197,12 @@ Al conocer al usuario,  se pudo construir el Customer Journey Map, donde se plas
 
 Se definieron los siguientes Problem Statements que representan las necesidades de nuestros usuarios. 
 
-![enter image description here](https://lh3.googleusercontent.com/ZasxrGyO6AmYGp73sG_Syc_LiRgHD4CdYep5jxntP_dAI2G2lf2HnZJyGp-qYQ_QCAG1s8MulNOq=s900)
-
+![enter image description here](https://lh3.googleusercontent.com/t6D9_UpMslWF6J1aWFC0ihSd1OmO9vRp2ED9rNBBdLuCvmBBw1ckJq8JQRWd0r87xchv8rfKxKhh "PE")
  ## How Might We -   Que tenga un carrito de compras
     
-![enter image description here](https://lh3.googleusercontent.com/IeeS3RO9YKGFOszrPPvvaWaZIoOcezXb1sAAV0909pI8-awR4xDx-bTAzf08u3uDwANtG8w2JkiZ)
-![enter image description here](https://lh3.googleusercontent.com/rxRwWbTplsvRhJlIowgT6-OnOpf2UIRAvHvr7nWBG03pTlneixnSpSaGq6K3fcpRy07dGjvTs3QM)
-![enter image description here](https://lh3.googleusercontent.com/9X4gKy1vbjx0F_n14L9B1rOCqvPI2aK5GrZTTNUbPcEBr5HGnUvJ8rZ-CoEl5MUnZEDl7C-oOK3K)
+![enter image description here](https://lh3.googleusercontent.com/qkktI_HNnV7jIb2_KSggZPp5DjTKoZaItLYMazMu6D2kjpZzTTkrzB5Ndd7KeLiRSQ7Q1ViovZUw "HMW1")
+![enter image description here](https://lh3.googleusercontent.com/pm8cjpYDiZAhNnHRmH5ryluHFdSZechJj8yJxVoX4EVi2x6YY1ImNpGSiHhMuxQnqX0ztmJ2ZGJZ "HMW2")
+![enter image description here](https://lh3.googleusercontent.com/hYPCDw49FSjPz9pPoOXTWYPihukeURCWDjU-MOHrv5nN8r2HPz4ptJKPo-lBZ3LYGxjbg3gN7-N6 "HMW2")
 
  ## Feature List
 
@@ -231,37 +230,14 @@ Gracias a los HMW, se pudo recolectar una lista de características para determi
 
 Nuestro producto, mínimamente debe realizar las siguientes funciones. Estas funciones las establecimos a partir de los Problem Statements y Feature List.
 
-![enter image description here](https://lh3.googleusercontent.com/F3aIgAVgeVM0FSl9ikEbiWQj7WztHIuKRY2w4hcgmR1pvXTkXZJ050ZLgCQFxsoZDJLyHNhjHiw9=s600)
+![
+](https://lh3.googleusercontent.com/mO1EwhAeqSie1b1m2qNJzL_OPCzItUuv-AqtpUMwBPkeALyQM2gshyiQozb9QWKar7Ac6LubkOE4=s600 "mvp")
 
 ## 3. Ideación
 
 Para el proceso de Ideación utilizamos Crazy 8's, ya que esto contribuyó a estimular la generación de ideas. Este proceso se detalla a continuación.
 
 ![enter image description here](https://lh3.googleusercontent.com/TkM4zMxihduFroy1qn3XzlZ-rolPypvkJp-i_BtzMb8Ixrw5gOW843CsL8XsocH0_PsaHngE_6H5=s900 "crazy 8's")
-
-Enlace a fotos ---> https://drive.google.com/drive/folders/1Yr9BaZaK22I4oFHAP6hqXVrmiiGIx4RK?usp=sharing
-
- ### Prototipado
- 
-  ### Prototipado de Baja Fidelidad
- 
- El prototipado creado a partir del proceso de ideación es el siguiente.
-
-![enter image description here](https://lh3.googleusercontent.com/TqsvVLwy49q74l_u6RL6t8WE80LGd7SaxBe8CWFBw9xS8sEAQ4vHT9QmJyPbe1WsW493pNQEuZMi "prototipadobaja1")
-![enter image description here](https://lh3.googleusercontent.com/aNuyUIhiuePUaHD6CUDYnnq7SJDF3FeYu0mungeZBK7rMIxVDEztohUt5O8qFiFF_V57SxHh9iDe "prototipadobaja2")
-
-  ### Testing
-
-![enter image description here](https://lh3.googleusercontent.com/1PhS4fTxTOuZo2OMV5zsi-LrL2EutZDtgSpMKf4-iGFYMM_mMhJmE52kqtGnpHlK_vCnp8zXh_rW "testing")
-
--   Los íconos de mi cuenta, buscador y carrito de compras son muy pequeños.
-    
--   No comprenden que pueden pagar con correo.
-    
--   No comprendieron cómo entrar al menú.
-    
--   No asociaban los íconos de chatbox de Messenger o Facebook.
-
 Enlaces en drive:
 fotos --->(https://drive.google.com/drive/folders/13vNxNz3p27zTiTuLaPB2HyFlMvrX6bu_)
 Enlaces a testing: 
@@ -271,7 +247,7 @@ Enlaces a testing:
 Testing 4
 Testing 5
 
-  ### Wireframe
+   ### Wireframe
   
 ![enter image description here](https://lh3.googleusercontent.com/h1G6As27opM2LVivtheqkeoYkZ1TJ81_fTZf1KCOI564BPp7FGMT3Bdwq5PBr3czIWriYpow7qaa "wireframe1")
 ![enter image description here](https://lh3.googleusercontent.com/7E9H1egrCShzDDL9khebgp1NfbUnGtE4nQXr1e3FbLWVyCR1qbYl7sA6VVkcMXi3OnkLt4YqqWst "wireframe2")
@@ -311,10 +287,6 @@ Enlaces en testing:
   ### Prototipado de Alta Fidelidad
  
  ![enter image description here](https://lh3.googleusercontent.com/jmxftRUYRCYqmoTPp3O8h8ps0YSDy91dEPf-8MWp-A-GRk2qzdri4mY2FybjThAmLc0p8MA0KEqu "prototipoalta")
-
----> Link a prototipo en Figma: 
-- [Prototipo de Alta fidelidad (edición)](https://www.figma.com/file/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=0:1)
-- [Prototipo de Alta fidelidad (navegable)](https://www.figma.com/proto/xwfMaVVfTELfO0aGJltrB7/Untitled-Copy?node-id=89:281&viewport=561,565,0.16950248181819916&scaling=scale-down)
  
  ### Presentación Final 
  
